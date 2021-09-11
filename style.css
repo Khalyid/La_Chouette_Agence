@@ -6,7 +6,9 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-
+.size-footer{
+    font-size: 1.2em;
+}
 a,
 button {
     transition: all .3s ease-in-out;
