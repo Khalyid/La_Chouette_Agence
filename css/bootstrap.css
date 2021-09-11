@@ -12,6 +12,16 @@ html {
     -ms-text-size-adjust: 100%
 }
 
+.blockquote{
+    color: #000;
+    font-size: 1.6em;
+    font-style: italic;
+    border: none;
+}
+
+.cite{
+    color: black;
+}
 body {
     margin: 0
 }
